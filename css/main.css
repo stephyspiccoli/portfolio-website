@@ -1,3 +1,4 @@
+
 .one{
   background-color: #013A6B;
   background-image: -webkit-linear-gradient(30deg, #013A6B 50%, #004E95 50%);
@@ -28,5 +29,3 @@
 
 .diagonal-split-background {
   background-color: #013A6B;
-  background-image: -webkit-linear-gradient(40deg, #013A6B 50%, #004E95 50%);
-}
