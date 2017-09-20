@@ -1,9 +1,43 @@
 
 html {
   background-color: #013A6B;
-  background-image: -webkit-linear-gradient(30deg, #013A6B 50%, #004E95 50%);
+  background-image: linear-gradient(34.4deg, #fcfaf7 50%, #f1e7d4 50%);
+  min-height: 100vh;
+  color: #002849;
+  font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  font-family: 'Dosis', sans-serif;
 }
 
 .box {
-  background-color: #fff;
+  background-color: white;
+  border-radius: 50px;
+  border-color: #002849;
+  border: 3px solid;
+}
+
+.banner {
+  color: #000;
+}
+
+.btn-light {
+  color: #002849;
+  background-color: transparent;
+  border-color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.btn-light:hover {
+
+  background-color: transparent;
+  border-color: #002849;
+
+  color: #002849;
+}
+
+.img {
+  color: #002849;
 }
